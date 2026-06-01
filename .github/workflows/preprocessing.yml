@@ -25,4 +25,4 @@ jobs:
 
       - name: Run Preprocessing
         run: |
-          python preprocessing/automate_Rafaela Genta Amadeis.py
+          python preprocessing/automate_Rafaela_Genta_Amadeis.py
